@@ -25,7 +25,9 @@ SECRET_KEY = 'uf+939=jsh!*f4c^$tuie1h6)sxp+8c9d4i9^nw)602a*3r3f0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'skylight.pythonanywhere.com',
+    ]
 
 
 # Application definition
